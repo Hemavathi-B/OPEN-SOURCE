@@ -1,4 +1,8 @@
 # OPEN-SOURCE
+<<<<<<< HEAD
 # HEMAVATHI B - 210401048
 
 #hello
+=======
+# HEMAVATHI B - 210401048
+>>>>>>> f05a3301a4c318a9a38a5e960fab77fb4695086e
